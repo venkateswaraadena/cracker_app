@@ -31,3 +31,19 @@
     transform: rotate(360deg);
   }
 }
+.App-button {
+  width: 100px;
+  height: 100px;
+  background: #4a19fa;
+  color: #ffffff;
+  margin : 20px;
+}
+.Button-div{
+margin:0 auto; 
+text-align: center;
+}
+.App-nav {
+  background: #4a19fa;
+  color: #ffffff;
+  text-align: center;
+}
